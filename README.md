@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @jekazinferno
-- 👀 I’m interested in Android development
+Hi, I’m Evgeny Zakharchenko
